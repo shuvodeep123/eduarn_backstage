@@ -1,7 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
+
 metadata:
   name: team-payments
+
 spec:
   type: team
   profile:
