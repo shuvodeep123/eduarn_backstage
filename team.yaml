@@ -1,13 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
-
 metadata:
   name: team-payments
-  description: Payments Team
-
 spec:
   type: team
   profile:
     displayName: Payments Team
-
   children: []
