@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+
+metadata:
+  name: payment-db
+  description: PostgreSQL database
+
+spec:
+  type: database
+  owner: group:default/team-payments
